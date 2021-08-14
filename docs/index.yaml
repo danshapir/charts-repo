@@ -3,7 +3,17 @@ entries:
   zeebe-simple-monitor:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-06-01T10:14:37.629366+03:00"
+    created: "2021-08-14T03:07:07.05796+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 8fad67bf846c3395c787d4e9a7c290f465bd98406eda361210b144136784aa21
+    name: zeebe-simple-monitor
+    type: application
+    urls:
+    - https://danshapir.github.io/charts-repo/zeebe-simple-monitor-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-14T03:07:07.056453+03:00"
     description: A Helm chart for Kubernetes
     digest: 56c7d67fec9c1c5efa349a86cacd2d574ce3a9a4120895bf0e1e4b4d9c5bb788
     name: zeebe-simple-monitor
@@ -13,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-06-01T10:14:37.628649+03:00"
+    created: "2021-08-14T03:07:07.054885+03:00"
     description: A Helm chart for Kubernetes
     digest: 24a8400c7af003c4cec442e444731bf2d4c32bc04ba4b8ce992b85ba7a54ff2b
     name: zeebe-simple-monitor
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://danshapir.github.io/charts-repo/zeebe-simple-monitor-0.1.0.tgz
     version: 0.1.0
-generated: "2021-06-01T10:14:37.627783+03:00"
+generated: "2021-08-14T03:07:07.053651+03:00"
